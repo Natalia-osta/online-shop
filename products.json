@@ -54,5 +54,12 @@
         "image": "tesla-roadster.jpg",
         "description": "Best sports car in the World",
         "price": 249999.99
+    },
+    {
+        "id": "9",
+        "title": "bmw x6",
+        "image": "x6.jpg",
+        "description": "Best car in the World",
+        "price": 100000.99
     }
 ]
